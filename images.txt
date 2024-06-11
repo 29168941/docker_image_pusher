@@ -1,3 +1,1 @@
-nginx
-nextcloud:fpm
-onlyoffice/documentserver
+onlyoffice/documentserver:7.5
