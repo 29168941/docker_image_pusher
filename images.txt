@@ -1,1 +1,1 @@
-nextcloud:29-fpm
+alpine:3.9
