@@ -1,1 +1,1 @@
-alpine:3.9
+eclipse-temurin:8u362-b09-jdk-focal
